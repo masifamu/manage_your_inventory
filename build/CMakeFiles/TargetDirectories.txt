@@ -1,0 +1,3 @@
+/home/masif/testProject/manage_your_inventory/build/CMakeFiles/rebuild_cache.dir
+/home/masif/testProject/manage_your_inventory/build/CMakeFiles/inventory.dir
+/home/masif/testProject/manage_your_inventory/build/CMakeFiles/edit_cache.dir
